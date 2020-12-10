@@ -1,1 +1,1 @@
-# phishing-web-detectiom
+# phishing-web-detection
